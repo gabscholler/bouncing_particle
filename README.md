@@ -2,4 +2,4 @@
 
 A simple piece of C++ code that simulates the movement of a character/particle within a container in the console.
 
-**Note:** The code hasn't been not polished, and is therefore a little unorganised. 
+![image](https://user-images.githubusercontent.com/112906942/200660054-09d6b0bf-3b32-46f6-9ee0-927af18708cb.png)
